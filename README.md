@@ -2,7 +2,7 @@
 A modular Python backend application for simulating gambling sessions, strategies, and win/loss calculations.
 This project demonstrates 7 use cases (UC1–UC7) including gambler profile management, stake tracking, betting strategies, session management, odds-based games, input validation, and interactive UI.
 
-Features / Use Cases
+# Features 
 Gambler Profile Management – Create, view, update, reset profiles.
 
 Stake Management – Place bets, view stake history reports.
